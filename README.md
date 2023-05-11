@@ -26,7 +26,7 @@ transform = transforms.Compose([
 
 5. 生成結果:
 
-   ![310581040](images\310581040.png)
+   ![310581040](images/310581040.png)
 
 ### 評估效果好壞
 
